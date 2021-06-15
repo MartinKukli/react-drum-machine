@@ -1,9 +1,1 @@
-# Drum Machine created with React
-
-Created with React. Designed with W3.CSS
-
-Play sound by clicking buttons or using the keyboard.
-
-Displays the name of played sound.
-
-[Try app on CodeSandbox](https://codesandbox.io/s/github/MartinKukli/react-drum-machine)
+# [Build a Drum MachinePassed](https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/build-a-drum-machine)
